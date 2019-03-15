@@ -23,8 +23,8 @@
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
 	* Download File on Github (https://github.com/henz26/ig/)
-	* Extract File fft-tools and enter the folder
-	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the fft-tools folder!!!)
+	* Extract File ig and enter the folder
+	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the ig folder!!!)
 	* Then type: unzip node_modules.zip
 	* To View The Contents Of a folder in bash, type: "ls" (without "")
 	* Then select the tool you want to use!
@@ -39,7 +39,7 @@
 	* pkg install git
 	* pkg install nodejs
 	* git clone https://github.com/henz26/ig/
-	* cd fft-tools
+	* cd ig
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -57,7 +57,7 @@
 
 	=========== Basic Usage ==============
 	* git clone https://github.com/henz26/ig/
-	* cd fft-tools
+	* cd ig
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
