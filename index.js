@@ -109,7 +109,7 @@ console.log(chalk`
  |  __| |  __|    | |       | |/ _ \ / _ \| / __|
  | |    | |       | |       | | (_) | (_) | \__ \
  |_|    |_|       |_|       |_|\___/ \___/|_|___/
-   Pengepul Code : Bambuseribu     @yahyahamidun                  
+   Pencurry Code : henz26     @corporationhenz                  
                                                      
 }
       `);
