@@ -1,7 +1,8 @@
-## Yahya Hamid Cuma Mulung Kode.
-## Jadi Saya Bukan Authornya . 
-## Saya Ambil Dari 3 Git .
-## Masokky - ikiganteng - sandroputra
+## Hendra Prasetyo cuma curry kode.
+## So, gue bukan Codernya. 
+## Gue ambil dari 3 Git.
+## Masokky - Ikiganteng - Sandroputra
+## Thanks to Yahya Hamid my brother :)
 <br/>
 
 ## Original author of this project is man who say himself as "CCOCOT". He deleted his own repository, then several members of SGBTeam are taking care of development and new features. And this is collection of several developments that have been carried out so far.
@@ -9,8 +10,8 @@
 
 
 ## How to install (DEFAULT or BASIC USAGE)
-	* git clone https://github.com/bambuseribu/fft-tools/
-	* cd fft-tools
+	* git clone https://github.com/henz26/ig/
+	* cd ig
 	* unzip node_modules.zip
 	* ls
 	* Then select the tool you want to use!
@@ -21,7 +22,7 @@
 	* Download GIT for Windows (https://git-scm.com/download/) *Choose WIN & 32bit/64bit
 	* Download NodeJS (https://nodejs.org/en/download/) *Choose .msi & 32bit/64bit
 	* INSTALL GIT for Windows & NodeJS
-	* Download File on Github (https://github.com/bambuseribu/fft-tools/)
+	* Download File on Github (https://github.com/henz26/ig/)
 	* Extract File fft-tools and enter the folder
 	* Right Click on Mouse, Then Select "Git Bash Here" (Make sure you are in the fft-tools folder!!!)
 	* Then type: unzip node_modules.zip
@@ -37,7 +38,7 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/bambuseribu/fft-tools/
+	* git clone https://github.com/henz26/ig/
 	* cd fft-tools
 	* unzip node_modules.zip
 	* ls
@@ -55,7 +56,7 @@
 	* sudo yum -y install nodejs
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/bambuseribu/fft-tools/
+	* git clone https://github.com/henz26/ig/
 	* cd fft-tools
 	* unzip node_modules.zip
 	* ls
@@ -88,7 +89,7 @@
 	* nvm install 10.7.0
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/bambuseribu/fft-tools/
+	* git clone https://github.com/henz26/ig/
 	* cd instagram-tools
 	* unzip node_modules.zip
 	* nvm use 10.7.0
@@ -132,5 +133,5 @@
     6. FFTSLEEP with random sleep
     7. New Feature: RMTPeople	[>] Repost Media Target by People                [  Repost Media  ]
     8. New Feature: RMTHashtag	[>] Repost Media Target by Hashtag               [       By       ]
-    9. New Feature: RMTLink		[>] Repost Media Target by Link (Media)          [    MAS OKKY    ]
+    9. New Feature: RMTLink	[>] Repost Media Target by Link (Media)          [    MAS OKKY    ]
 <br/>
